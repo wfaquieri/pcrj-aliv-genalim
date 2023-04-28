@@ -6,17 +6,42 @@
 #' transformados em diferentes etapas do processo
 
 
-
+# Carregando dados do planilhao (ALIATA|ALIVAR)
 data <- load_data()
 
-data_clean <- data_wrangling(data)
+# Arrumar os dados do planilhao (ALIATA | ALIVAR) em um formato 'tidy'
+data_tidy <- data_wrangling(data)
 
-tabelas <- create_table(data_clean)
+# Criação de tabelas a partir dos dados arrumados
+tabelas <- create_table(data_tidy)
 
-df1 <- tabelas$df1 |> dplyr::mutate(praticado = calcular_preco(p_varejo, p_atacado)) 
-df2 <- tabelas$df2 |> dplyr::mutate(praticado = calcular_preco(p_varejo_2, p_atacado_2)) 
+# Processamento das tabelas...
+tab_proc = processar_tabelas(tabelas$df1,tabelas$df2)
 
-tabela_final = df1 |> 
-  dplyr::left_join(df2, by = c("novo_cod_ext", "novo_cod_fgv"))
+# Convertendo lista para data frames
+df1 <- tab_proc[[1]]
+df2 <- tab_proc[[2]]
 
-tabela_final |> writexl::write_xlsx("tabela_final_03042023.xlsx")
+# Combinação dos data frames "df1" e "df2" 
+tabela_final =  dplyr::left_join(df1, df2, by = c("novo_cod_ext", "novo_cod_fgv"))
+
+# # Preparar os dados mais recentes para atualizacao da serie historica
+# novos_dados <- prep_dados_historica(data_tidy, df1, df2)
+# 
+# # Atualizando e guardando a serie historica
+# atualizar_serie(novos_dados)
+
+# Definir o nome do arquivo
+nome_arquivo <- define_nome_arquivo()
+
+# Escrever o data frame em um arquivo Excel com o nome definido
+write_to_excel(tabela_final, filename = nome_arquivo)
+
+remover_inputs(file_pattern = "ALIATA|ALIVAR|GENEROSCGM")
+
+rm(list=ls())
+
+cat("\014")
+
+cat(crayon::green$bold(" \n \n \n  \n \n \n \n  \n \n \n  \n \n \n  \n \n \n Comparativo de preços gerado com sucesso!\n"))
+

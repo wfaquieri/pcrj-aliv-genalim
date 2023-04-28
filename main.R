@@ -2,7 +2,7 @@
 #'    | ** FGV  - Fundacao Getulio Vargas **                        |
 #'    | ** IBRE - Instituto Brasileiro de Economia **               |
 #'    | ** SPDO - Superintendência de Pesquisa, Dados e Operação ** |
-#'    | Data inicial : ** 03/2023 **                                |
+#'    | Data inicial : ** 05/2023 **                                |
 #'    | ID do codigo : ** PCRJALIV **                               |
 #'    | versao       : ** 0.0.0.9000 **                             |
 #'    | Responsavel  : ** Winicius B Faquieri **                    |
@@ -10,7 +10,7 @@
 #'    '-------------------------------------------------------------'
 #'
 #'
-#' Run all ** Ctrl + Alt + R **
+#' Run all ** Ctrl + Alt + R ** 
 #'
 
 

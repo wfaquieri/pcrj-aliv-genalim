@@ -1,0 +1,199 @@
+89050100736@16@31@03@2023@Kg@8,47@@12,40@@11,42@FÍGADO BOVINO@congelado,em embalagem plástica conforme a legislação.
+89050100817@16@31@03@2023@Kg@26,95@@38,73@@35,79@CARNE BOVINA, PATINHO@sem osso, congelada,em embalagem plástica conforme a legislação.
+89050101465@16@31@03@2023@Kg@21,50@@26,87@@25,53@CARNE BOVINA, MÚSCULO@sem osso, congelada,em embalagem plástica conforme a legislação.
+89050300310@16@31@03@2023@Kg@7,68@@11,46@@10,52@CARNE, FRANGO (COXA/SOBRECOXA)@com osso, congelada,  em embalagem plástica original.
+89050300409@16@31@03@2023@Kg@6,61@@10,97@@9,88@MOELA, FRANGO@limpa, congelada,  em embalagem plástica original.
+89050300743@16@31@03@2023@Kg@12,48@@16,72@@15,66@CARNE, FRANGO (FILÉ DE PEITO)@sem osso, congelada, em embalagem plástica original.
+89050302100@16@31@03@2023@Kg@10,50@@16,98@@15,36@CARNE, FRANGO (COXA/ SOBRECOXA)@sem osso, sem pele, congelada, em embalagem plástica original
+89050400705@16@31@03@2023@Kg@17,54@@31,18@@27,77@PEIXE (CAÇÃO)@branco,  em postas, sem pele, congelado,em embalagem plástica conforme a legislação.
+89050402660@16@31@03@2023@Kg@36,90@@38,00@@37,73@PEIXE (LINGUADO)@cortado em filé, sem pele, sem espinha, congelado, cortado em filé, sem pele, sem espinha, congelado, devendo ser fornecido acondicionado em embalagem plástica
+89050402821@16@31@03@2023@Kg@21,90@@27,45@@26,06@PEIXE (MERLUZA)@cortado em file, sem pele, sem espinha, congelado, devendo ser fornecido acondicionado em embalagem plástica atóxica, resistente, devidamente rotulada de acordo
+89050700172@16@31@03@2023@un@4,71@@6,15@@5,79@ATUM, CONSERVA@em  óleo vegetal, ralado, embalagem original com no mínimo 120g (peso drenado).
+89050700253@16@31@03@2023@un@4,06@@4,49@@4,38@SARDINHA, CONSERVA@em óleo comestível, embalagem original com no mínimo 80g (peso drenado).
+89050700849@16@31@03@2023@un@26,53@@22,58@@22,58@ATUM, CONSERVA@pedaços em óleo comestível, embalagem original com no mínimo 450g (preso drenado)
+89100800175@16@31@03@2023@un@6,03@@7,99@@7,50@OVO, GALINHA@extra,  classe A, branco, acondicionado em caixa com uma dúzia, perfazendo no mínimo 720g.
+89100800418@16@31@03@2023@un@14,53@@18,49@@17,50@OVO DE GALINHA@extra, classe A, branco, acondicionado em caixa com 30 unidades, protegidos com filme de pvc contendo data de embalagem e validade, carimbo do sif e nome do pro
+89100800507@16@31@03@2023@un@20,38@@21,84@@21,48@OVO DE GALINHA@extra, classe A, caipira, acondicionado em caixa com 30 unidades, protegidos com filme de pvc contendo data de embalagem e validade, carimbo do sif e nome do pr
+89100900129@16@31@03@2023@un@14,38@@14,43@@14,42@LEITE EM PÓ, DESNATADO@instantâneo, embalagem original com no mínimo 300g.
+89100900200@16@31@03@2023@un@12,61@@15,59@@14,85@LEITE EM PÓ, INTEGRAL@instantâneo, embalagem original com no mínimo 400g.
+89100900803@16@31@03@2023@un@4,19@@4,29@@4,27@LEITE INTEGRAL, UAT (UHT)@em embalagem original cartonada asséptica com 1 litro
+89100902504@16@31@03@2023@un@27,98@@29,70@@29,27@LEITE DE VACA, SEM LACTOSE, PÓ@instantâneo, em embalagem original com no mínimo 300g.
+89101000504@16@31@03@2023@un@8,39@@10,99@@10,34@MANTEIGA@extra, com sal,  em embalagem original com 200g.
+89101003015@16@31@03@2023@un@2,09@@2,49@@2,39@IOGURTE NATURAL@embalagem original com no mínimo 150g
+89101003104@16@31@03@2023@un@1,88@@2,19@@2,11@IOGURTE, POLPA DE FRUTAS@Diversos sabores, embalagem original, garrafa plástica, com no mínimo 180g
+89101003287@16@31@03@2023@un@ @@10,99@@9,89@IOGURTE, POLPA DE FRUTAS@Diversos sabores, embalagem original, garrafa plástica, com no mínimo 900g
+89101003368@16@31@03@2023@un@4,07@@7,29@@6,49@REQUEIJÃO CREMOSO@tradicional, em embalagem original com no mínimo 200g
+89101003449@16@31@03@2023@un@5,78@@10,87@@9,60@QUEIJO PROCESSADO, UHT@tradicional, em embalagem original com 8 unidades, com no mínimo 17g cada.
+89101003520@16@31@03@2023@un@2,69@@3,20@@3,07@IOGURTE DESNATADO, SEM LACTOSE@em embalagem original com no mínimo 170g.
+89151100545@16@31@03@2023@un@5,88@@6,67@@6,47@MILHO, CANJICA@misturado,  classe branca, tipo 2, embalagem original com 500g.
+89151101274@16@31@03@2023@un@4,20@@5,39@@5,09@TRIGO, QUIBE@embalagem original com 500 g.
+89151101606@16@31@03@2023@Kg@3,95@@5,99@@5,48@ARROZ POLIDO@ classe longo fino, tipo 1, em embalagem original.
+89151101789@16@31@03@2023@Kg@4,01@@5,42@@5,07@ARROZ PARBOILIZADO@ classe longo fino, tipo 1, em embalagem original.
+89151101860@16@31@03@2023@un@6,30@@7,16@@6,95@FEIJÃO PRETO@grupo 1,  tipo 1, embalagem original com 1kg.
+89151101940@16@31@03@2023@un@4,55@@5,64@@5,37@FEIJÃO BRANCO@grupo 1, tipo 1, embalagem original com 500g.
+89151102084@16@31@03@2023@un@8,25@@9,29@@9,03@FEIJÃO CARIOCA@grupo 1, tipo 1, embalagem original com 1kg.
+89151103137@16@31@03@2023@un@10,25@@10,90@@10,74@PROTEÍNA TEXTURIZADA, SOJA@escura, grânulos pequenos, embalagem plástica original com 250g
+89151103218@16@31@03@2023@un@3,06@@3,56@@3,44@FEIJÃO FRADINHO@grupo 2, tipo 3, embalagem original com 500g.
+89151103803@16@31@03@2023@un@6,99@@8,63@@8,22@GRÃO DE BICO@grupo 1, classe tipo 1, acondicionado em embalagem de 500g.
+89151200256@16@31@03@2023@Kg@2,05@@4,52@@3,90@ABÓBORA@
+89151200337@16@31@03@2023@Kg@2,14@@4,69@@4,05@ABOBRINHA@
+89151200418@16@31@03@2023@Kg@3,73@@8,72@@7,47@AGRIÃO@
+89151200507@16@31@03@2023@Kg@2,93@@4,35@@4,00@AIPIM@
+89151200680@16@31@03@2023@Kg@3,00@@7,65@@6,49@ALFACE, LISA@
+89151200760@16@31@03@2023@Kg@10,55@@15,75@@14,45@ALHO@
+89151200922@16@31@03@2023@Kg@2,37@@3,91@@3,53@BATATA DOCE@
+89151201066@16@31@03@2023@Kg@2,03@@4,24@@3,69@BATATA, LAVADA@
+89151201147@16@31@03@2023@Kg@2,80@@4,55@@4,11@BERINJELA@
+89151201228@16@31@03@2023@Kg@3,30@@6,37@@5,60@BERTALHA@
+89151201309@16@31@03@2023@Kg@2,37@@4,05@@3,63@BETERRABA@
+89151201490@16@31@03@2023@Kg@5,60@@5,67@@5,65@BRÓCOLIS@
+89151201570@16@31@03@2023@Kg@3,10@@4,43@@4,10@CEBOLA@
+89151201651@16@31@03@2023@Kg@4,70@@6,27@@5,88@CENOURA@
+89151201732@16@31@03@2023@Kg@13,00@@39,05@@32,54@CHEIRO VERDE@
+89151201813@16@31@03@2023@Kg@9,00@@15,45@@13,84@CHICÓRIA@
+89151201902@16@31@03@2023@Kg@1,81@@2,86@@2,60@CHUCHU@
+89151202038@16@31@03@2023@Kg@10,00@@20,30@@17,73@COENTRO@
+89151202119@16@31@03@2023@Kg@9,33@@12,43@@11,66@COUVE@
+89151202208@16@31@03@2023@Kg@2,19@@6,99@@5,79@COUVE-FLOR@
+89151202380@16@31@03@2023@Kg@7,75@@8,69@@8,46@VAGEM MANTEIGA@
+89151202461@16@31@03@2023@Kg@3,30@@4,49@@4,19@ESPINAFRE@
+89151202542@16@31@03@2023@Kg@3,91@@6,59@@5,92@TOMATE@
+89151202623@16@31@03@2023@Kg@4,44@@7,40@@6,66@INHAME@
+89151202976@16@31@03@2023@Kg@1,97@@3,30@@2,97@MILHO VERDE, ESPIGA@
+89151203190@16@31@03@2023@Kg@2,00@@3,96@@3,47@PEPINO@
+89151203271@16@31@03@2023@Kg@4,96@@7,67@@6,99@PIMENTÃO VERDE@
+89151203352@16@31@03@2023@Kg@5,27@@6,49@@6,19@QUIABO@
+89151203433@16@31@03@2023@Kg@2,24@@4,74@@4,12@REPOLHO@
+89151203603@16@31@03@2023@Kg@21,67@@43,63@@38,14@HORTELÃ@
+89151203786@16@31@03@2023@Kg@5,75@@9,94@@8,89@LOURO, VERDE@
+89151207188@16@31@03@2023@Kg@8,56@@16,49@@14,51@BATATA BAROA@extra, tamanho médio (peso entre 150g e 300g)
+89151207269@16@31@03@2023@Kg@1,10@@4,32@@3,52@ACELGA@
+89151207340@16@31@03@2023@Kg@6,66@@6,86@@6,81@SALSA@
+89151207420@16@31@03@2023@Kg@5,00@@8,04@@7,28@MANJERICÃO@
+89151300129@16@31@03@2023@Kg@2,90@@4,61@@4,18@ABACATE@
+89151300390@16@31@03@2023@Kg@2,77@@4,55@@4,11@BANANA D'ÁGUA@
+89151300471@16@31@03@2023@Kg@4,00@@7,66@@6,75@BANANA PRATA@
+89151300552@16@31@03@2023@Kg@6,81@@14,99@@12,95@CAQUI@
+89151300633@16@31@03@2023@Kg@5,98@@9,61@@8,70@MAMÃO FORMOSA@
+89151300803@16@31@03@2023@Kg@2,78@@5,82@@5,06@LARANJA LIMA@
+89151301010@16@31@03@2023@Kg@1,38@@3,84@@3,23@LARANJA PÊRA@
+89151301109@16@31@03@2023@Kg@2,53@@4,97@@4,36@LARANJA SELETA@
+89151301281@16@31@03@2023@Kg@1,87@@2,98@@2,70@LIMÃO TAITI@
+89151301362@16@31@03@2023@Kg@6,51@@9,45@@8,72@MAÇÃ NACIONAL@
+89151301524@16@31@03@2023@Kg@8,78@@9,99@@9,69@TANGERINA MURKOTE@
+89151301605@16@31@03@2023@Kg@5,28@@6,27@@6,02@TANGERINA PONKAN@
+89151301877@16@31@03@2023@Kg@2,10@@3,27@@2,98@MELANCIA@
+89151301958@16@31@03@2023@Kg@3,67@@5,92@@5,36@MELÃO@
+89151302091@16@31@03@2023@Kg@3,00@@3,99@@3,74@MANGA ESPADA@
+89151302253@16@31@03@2023@Kg@6,69@@11,95@@10,64@MARACUJÁ@
+89151303144@16@31@03@2023@Kg@3,96@@5,41@@5,05@ABACAXI@sem rama lateral.
+89151305511@16@31@03@2023@Kg@4,56@@5,05@@4,93@MANGA PALMER@extra, com peso médio de 450g a unidade.
+89151500306@16@31@03@2023@un@3,54@@4,12@@3,98@MILHO VERDE, CONSERVA@em embalagem original com 170g (peso drenado)
+89151500489@16@31@03@2023@un@2,56@@3,13@@2,99@ERVILHA, CONSERVA@em embalagem original com 170g (peso drenado).
+89151603458@16@31@03@2023@Kg@3,47@@4,99@@4,61@REPOLHO ROXO@extra (peso entre 500g e 1000g)
+89201600805@16@31@03@2023@un@8,69@@11,99@@11,17@ALIMENTO À BASE DE HIDRATO DE CARBONO@tradicional, amido de milho, com suplemento vitamínico e mineral, embalagem original com 460g.
+89201600996@16@31@03@2023@un@5,52@@8,03@@7,40@AMIDO, MILHO@embalagem original com 500g.
+89201601291@16@31@03@2023@un@3,01@@3,76@@3,57@FUBÁ, MILHO@extra,  embalagem original com 1kg.
+89201601372@16@31@03@2023@un@5,86@@6,49@@6,33@TAPIOCA@granulada, tipo 1, embalagem original com no mínimo 500g.
+89201601615@16@31@03@2023@un@2,58@@3,00@@2,90@FERMENTO QUÍMICO@em pó, em embalagem original com 100g.
+89201602000@16@31@03@2023@un@4,50@@4,92@@4,82@FARINHA, TRIGO@tipo 1, embalagem original com 1kg.
+89201602263@16@31@03@2023@un@5,69@@8,16@@7,54@FARINHA, MANDIOCA@tipo 1, seca, fina,  branca, crua, embalagem original com 1kg.
+89201602778@16@31@03@2023@un@8,69@@9,98@@9,66@FARINHA LÁCTEA@embalagem original com no mínimo 300g.
+89201603235@16@31@03@2023@un@2,99@@2,29@@2,29@FERMENTO BIOLÓGICO SECO@instantâneo, embalagem original com no mínimo 10g.
+89201605289@16@31@03@2023@un@2,75@@3,46@@3,28@AVEIA, FARINHA@em embalagem original com 200g.
+89201605360@16@31@03@2023@un@3,33@@3,34@@3,34@AVEIA, FLOCOS@em embalagem original com 200g.
+89201605440@16@31@03@2023@un@2,75@@3,49@@3,31@AVEIA, FLOCOS FINOS@em embalagem original com 200g.
+89201606501@16@31@03@2023@un@1,99@@2,49@@2,37@FARINHA DE MILHO FLOCADA@embalagem original com 500g
+89201700354@16@31@03@2023@un@3,99@@6,99@@6,24@MASSA ALIMENTÍCIA, NINHO@tipo talharim, com ovos, embalagem original com 500g.
+89201700435@16@31@03@2023@un@3,99@@4,49@@4,37@MASSA ALIMENTÍCIA, FIDELINHO@com ovos, nº 10, embalagem original com 500g.
+89201700605@16@31@03@2023@un@2,86@@4,62@@4,18@MASSA ALIMENTÍCIA, PARAFUSO@com ovos, embalagem original com 500g.
+89201700788@16@31@03@2023@un@3,27@@4,64@@4,30@MASSA ALIMENTÍCIA, ESPAGUETE@com ovos, nº 8 ou 9, embalagem original com 500g.
+89201700869@16@31@03@2023@un@4,06@@4,72@@4,56@MASSA ALIMENTÍCIA, PADRE NOSSO@com semolina, embalagem original com 500g.
+89201701750@16@31@03@2023@un@3,69@@4,72@@4,46@MASSA ALIMENTÍCIA, LETRINHAS@Letrinhas/Alfabeto com ovos, embalagem original com 500g
+89201701830@16@31@03@2023@un@3,69@@4,49@@4,29@MASSA ALIMENTICIA, GRAVATA@com ovos, embalagem com 500 g
+89201702055@16@31@03@2023@un@4,10@@4,98@@4,76@MASSA ALIMENTICIA, ARROZ@sem glúten, sem ovos, embalagem original com no mínimo 500g
+89201800227@16@31@03@2023@un@2,57@@3,64@@3,37@BISCOITO SALGADO@tipo cream-cracker, embalagem original com 200g.
+89201800570@16@31@03@2023@un@3,03@@3,42@@3,32@BISCOITO DOCE@tipo maria ou maisena, embalagem original com 200g.
+89201801622@16@31@03@2023@un@3,87@@4,89@@4,64@BISCOITO SALGADO@integral, embalagem original com no mínimo 150g, com pacotes de no mínimo 25g.
+89201801894@16@31@03@2023@un@4,78@@4,97@@4,92@BISCOITO DOCE@tipo rosquinha, embalagem original com no mínimo 350g.
+89201802866@16@31@03@2023@un@0,33@@ @@0,36@BISCOITO DOCE@tipo Maria, embalagem original com no mínimo 20g
+89201802947@16@31@03@2023@un@6,99@@8,39@@8,04@BISCOITO DOCE@sem glúten e sem lactose, sem recheio, acondicionado em embalagem original com no mínimo 100g.
+89201803080@16@31@03@2023@un@ @@2,99@@2,69@BISCOITO POLVILHO, DOCE@isento de glúten e lactose, acondicionado em embalagem original com no mínimo 100g.
+89201803161@16@31@03@2023@un@4,66@@5,00@@4,92@BISCOITO POLVILHO, SALGADO@isento de glúten e lactose, acondicionado em embalagem original com no mínimo 100g.
+89201900108@16@31@03@2023@un@5,58@@6,35@@6,16@PÃO, FORMA@tradicional, em embalagem plástica original com 500g.
+89201901414@16@31@03@2023@Kg@ @@14,01@@12,61@PÃO FRANCES@com peso mínimo de 50g a unidade
+89201901503@16@31@03@2023@Kg@ @@17,90@@16,11@PÃO CARECA@com peso de 50G a unidade
+89201901686@16@31@03@2023@Kg@ @@17,30@@15,57@PÃO CARECA@com peso de 30G a unidade
+89201902658@16@31@03@2023@Kg@ @@16,50@@14,85@BROA, MILHO@com peso de 50 g a unidade
+89201902739@16@31@03@2023@un@0,72@@0,79@@0,77@TORRADA SALGADA, INTEGRAL@em embalagem original, individual, com peso mínimo de 14 gramas, com no máximo 130mg de sódio por porção.
+89252000139@16@31@03@2023@Kg@3,58@@3,64@@3,63@AÇÚCAR REFINADO@especial, em embalagem plástica original.
+89252200227@16@31@03@2023@un@2,49@@2,91@@2,81@LEITE, COCO@concentrado, embalagem original com 200ml.
+89252400234@16@31@03@2023@un@28,31@@34,99@@33,32@AMEIXA SECA@embalagem original  com no mínimo 500g.
+89252400404@16@31@03@2023@un@4,02@@8,99@@7,75@UVA PASSA@escura, sem semente, embalagem original com no mínimo 200g
+89302500741@16@31@03@2023@un@8,47@@10,39@@9,91@DOCE, GOIABADA@ sem adição de corantes, embalagem original com no mínimo 600g.
+89302600100@16@31@03@2023@un@1,64@@3,59@@3,10@GELÉIA, FRUTA@ em embalagem plástica com 06 unidades, com no mínimo 15g cada.
+89403201057@16@31@03@2023@un@4,17@@6,30@@5,77@ADOÇANTE DIETÉTICO@líquido, sucralose, embalagem original com no mínimo 25 ml
+89403201642@16@31@03@2023@un@6,65@@7,39@@7,21@ADOÇANTE DIETÉTICO, LÍQUIDO@edulcorante estévia, em embalagem original com no mínimo 25ml.
+89403301787@16@31@03@2023@un@41,21@@45,99@@44,80@FORMULA INFANTIL, SEM LACTOSE@pó, à base de proteínas do leite, isenta de lactose e sacarose, em embalagem original com no mínimo 400g.
+89403302406@16@31@03@2023@un@51,20@@55,00@@54,05@FORMULA INFANTIL, AR@antiregurgitação com amido modificado, a base do leite, maltoextrina, amido modificado e lactose, com gordura láctea e óleos vegetais, com adição de vitaminas,
+89403303054@16@31@03@2023@un@279,99@*@356,98@@337,73@FORMULA INFANTIL, ISENTA DE FENILALANINA, CRIANÇAS DE 1 A 8 ANOS@hiperproteica, com mistura de L aminoácidos, apresentando em 100g do produto o mínimo 60g de proteína enriquecida de vitaminas, minerais e elementos traços, em
+89403303992@16@31@03@2023@un@31,60@@34,46@@33,75@ALIMENTO DIETÉTICO, SOJA@pó extrato solúvel de soja, isento de sacarose e lactose, com no mínimo 250g.
+89403305502@16@31@03@2023@un@42,94@@55,99@@52,73@FORMULA INFANTIL, SOJA, DE SEGUIMENTO, PARA LACTENTES@pó, à base de proteína isolada de soja, de seguimento, para lactentes, em embalagem original com no mínimo 400g.
+89403305774@16@31@03@2023@un@188,80@@214,99@@208,44@FORMULA INFANTIL, SEMI ELEMENTAR HIDROLISADA@do leite,  polímeros de glicose, com no mínimo 40% de TCM, isenta de lactose, com adição de vitaminas, minerais e oligoelementos, em embalagem original com no m
+89403305936@16@31@03@2023@un@302,89@@269,12@@269,12@FORMULA INFANTIL, ELEMENTAR@em pó, nutricionalmente completa, com 100% de aminoácidos livres, 100% de maltodextrina, 100% de óleos vegetais, com adição de vitaminas, minerais e oligoelemen
+89403306150@16@31@03@2023@un@108,84@@119,99@@117,20@FORMULA INFANTIL, EXTENSAMENTE HIDROLISADA@do soro do leite, com lactose, isenta de sacarose, com no mínimo 95% de óleos vegetais, com adição de vitaminas, minerais e oligoelementos, acondicionado em emb
+89403306401@16@31@03@2023@un@77,97@@75,44@*@75,44@FORMULA INFANTIL DE SEGMENTO@(segundo semestre) para lactentes, a base de leite, com a seguinte composição por 100 kcal: de 1,8 a 3,5 g de proteínas; de 4,0 a 6,0g de gordura de 300 a 1400m
+89403307637@16@31@03@2023@un@17,86@@41,44@@35,55@ALIMENTO DIETÉTICO A BASE DE ARROZ, EM PÓ@com no mínimo 240mg de cálcio em 30g, sem sacarose, sem lactose, isento de glúten, acondicionado em embalagem original com no mínimo 300g
+89403309257@16@31@03@2023@un@259,48@@263,00@@262,12@FORMULA INFANTIL, ELEMENTAR@nutricionalmente completa com 100% dos aminoácidos livres, 100% maltadextrina, 100% óleos vegetais, com adição de vitaminas, minerais e oligoelementos, em embal
+89403310000@16@31@03@2023@un@73,97@@70,22@@70,22@ALIMENTO DIETÉTICO, SOJA@em pó, a base de proteína isolada de soja, isento de sacarose e lactose, para crianças de 1 ate 5 anos de idade, com adição de ômega 3 e 5, em embalagem origina
+89403310182@16@31@03@2023@un@40,83@@40,94@@40,91@FORMULA INFANTIL, PTN, LÁCTEA@em pó, para lactentes, e de segmento para lactentes e crianças da primeira infância, a base de proteínas lácteas parcialmente hidrolisadas, baixo teor de lactos
+89403310930@16@31@03@2023@un@51,20@@69,90@@65,23@FÓRMULA INFANTIL, AR, PÓ@a base de proteínas do leite, maltodextrina, amido modificado e lactose, com gordura láctea e óleos vegetais, com adição de vitaminas, minerais e oligoelementos
+89403400335@16@31@03@2023@un@33,57@@37,29@@36,36@COMPLEMENTO ALIMENTAR, PÓ@lácteo, com sacarose ,  embalagem original com no mínimo 400g.
+89403403008@16@31@03@2023@un@46,42@@58,99@@55,85@COMPLEMENTO ALIMENTAR, EM PÓ@isento de lactose e glúten, nutricionalmente completo, para crianças de 1 a 10 anos, polimérica, normocalorica (1.0-1,2kcal/ml), com sacarose, com adição de vit
+89453700111@16@31@03@2023@un@18,27@@22,79@@21,66@AZEITE, OLIVA@puro, embalagem original com  500ml.
+89453700200@16@31@03@2023@un@6,61@@6,72@@6,69@ÓLEO, SOJA@tipo 1, refinado, embalagem original com 900ml.
+89453700464@16@31@03@2023@un@11,55@@16,29@@15,11@OLEO, MILHO@refinado, tipo 1, embalagem original com 900 ml
+89453800256@16@31@03@2023@un@6,34@@8,68@@8,10@MARGARINA VEGETAL@cremosa, com sal,  60 a 95% de teor de lipídios,  isento de gordura trans, embalagem original com 500g.
+89503900178@16@31@03@2023@un@1,35@@2,17@@1,97@SAL@refinado, iodado, embalagem plástica original com 1kg.
+89503900500@16@31@03@2023@un@1,54@@1,59@@1,58@ORÉGANO@em embalagem original com no mínimo 3g.
+89503900844@16@31@03@2023@un@1,35@@2,45@@2,18@CANELA, CASCA@em embalagem original com no mínimo 10g.
+89503900925@16@31@03@2023@un@2,25@@2,54@@2,47@CANELA, PÓ@em embalagem original com no mínimo 10g.
+89503901069@16@31@03@2023@un@1,54@@2,96@@2,61@CRAVO, ÍNDIA@grão, em embalagem original com no mínimo 10g.
+89504000391@16@31@03@2023@un@3,95@@4,17@@4,12@POLPA, TOMATE@tradicional, em embalagem original com 520g.
+89504100507@16@31@03@2023@un@1,59@@2,47@@2,25@VINAGRE, ÁLCOOL@Embalagem original com no mínimo 750 ml
+89504100850@16@31@03@2023@un@4,50@@4,99@@4,87@VINAGRE DE MAÇÃ@em embalagem original com 500ml.
+89554200971@16@31@03@2023@un@10,50@@15,38@@14,16@CAFÉ, SOLÚVEL@granulado, embalagem original com 100g.
+89554201439@16@31@03@2023@un@13,18@@15,90@@15,22@CHOCOLATE COM 50% CACAU@em pó, solúvel, isento de glúten e de lactose, em embalagem original com no mínimo 200g.
+89604400332@16@31@03@2023@un@2,84@@3,88@@3,62@SUCO, CAJU@embalagem original com 500ml.
+89604400502@16@31@03@2023@un@5,08@@5,29@@5,24@SUCO, MARACUJÁ@embalagem original com 500ml.
+89604400766@16@31@03@2023@un@4,18@@4,82@@4,66@SUCO, UVA@embalagem original com 500ml.
+89604401738@16@31@03@2023@un@4,83@@3,19@@3,19@SUCO INTEGRAL, FRUTA@sem adição de açúcares, de corantes ou de conservantes artificiais, em embalagem original com no mínimo 200ml.
+89604401819@16@31@03@2023@un@11,39@@12,40@@12,15@SUCO INTEGRAL, FRUTA@sem adição de açúcares, de corantes ou de conservantes artificiais, em embalagem original com no mínimo 1000ml.
+89604500205@16@31@03@2023@un@0,64@@1,36@@1,18@ÁGUA MINERAL@natural, sem gás, embalagem plástica original com no mínimo 500ml.
+90100900129@16@31@03@2023@un@14,38@@16,47@@15,95@LEITE EM PÓ, DESNATADO@instantâneo, embalagem original com no mínimo 300g.
+90100900200@16@31@03@2023@un@15,21@@16,87@@16,46@LEITE EM PÓ, INTEGRAL@instantâneo, embalagem original com no mínimo 400g.
+90100900803@16@31@03@2023@un@4,91@@5,85@@5,61@LEITE INTEGRAL, UAT (UHT)@em embalagem original cartonada asséptica com 1 litro
+90100902504@16@31@03@2023@un@27,98@@29,70@@29,27@LEITE DE VACA, SEM LACTOSE, PÓ@instantâneo, em embalagem original com no mínimo 300g.
+90101000504@16@31@03@2023@un@9,44@@13,25@@12,30@MANTEIGA@extra com sal,  em embalagem original com 200g.
+90101003015@16@31@03@2023@un@2,33@@3,02@@2,84@IOGURTE NATURAL@embalagem original com no mínimo 150g.
+90101003104@16@31@03@2023@un@2,47@@2,99@@2,86@IOGURTE, POLPA DE FRUTAS@diversos sabores embalagem original, garrafa plástica, com no mínimo 180g
+90101003287@16@31@03@2023@un@ @@12,29@@11,06@IOGURTE, POLPA DE FRUTAS@diversos sabores, embalagem original, garrafa plástica, com no mínimo 900g
+90101003368@16@31@03@2023@un@5,76@@9,27@@8,39@REQUEIJÃO CREMOSO@tradicional, em embalagem original com no mínimo 200g
+90101003449@16@31@03@2023@un@6,18@@12,10@@10,62@QUEIJO PROCESSADO, UHT@tradicional em embalagem original com 8 unidades, com no mínimo 17g cada.
+90101003520@16@31@03@2023@un@2,89@@3,72@@3,51@IOGURTE DESNATADO, SEM LACTOSE@em embalagem original com no mínimo 170g.
+90403201642@16@31@03@2023@un@7,22@@9,36@@8,82@ADOÇANTE DIETÉTICO LÍQUIDO@edulcorante estévia em embalagem original com no mínimo 25ml.
+90403301787@16@31@03@2023@un@54,88@@56,73@@56,27@FORMULA INFANTIL, SEM LACTOSE@pó à base de proteínas do leite, isenta de lactose e sacarose, em embalagem original com no mínimo 400g.
+90403302406@16@31@03@2023@un@51,20@@55,00@@54,05@FORMULA INFANTIL, AR@antiregurgitação com amido modificado, a base do leite, maltoextrina, amido modificado de lactose, com gordura láctea e óleos vegetais, com adição de vitaminas,
+90403303054@16@31@03@2023@un@279,99@*@392,37@@364,27@FORMULA INFANTIL, ISENTA DE FENILALANINA@C hiperproteica, com mistura de l aminoácidos, apresentando em 100g do produto o mínimo 60g de proteína enriquecida de vitaminas, minerais e elementos traços, e
+90403303992@16@31@03@2023@un@31,60@@34,46@@33,74@ALIMENTO DIETÉTICO, SOJA@pó extrato solúvel de soja, isento de sacarose e lactose, com no mínimo 250g.
+90403305502@16@31@03@2023@un@42,94@@61,66@@56,98@FORMULA INFANTIL, SOJA, DE SEGMENTO@PARA pó, à base de proteína isolada de soja, de segmento, para lactentes, em embalagem original com no mínimo 400g.
+90403305774@16@31@03@2023@un@208,29@@241,89@@233,49@FORMULA INFANTIL, SEMI ELEMENTAR HIDROLISADA@do leite polímeros de glicose, com no mínimo 40% de tcm, isenta de lactose, com adição de vitaminas, minerais e oligoelementos, em embalagem original com no mín
+90403305936@16@31@03@2023@un@302,89@@287,03@@287,03@FORMULA INFANTIL, ELEMENTAR@em pó nutricionalmente completa, com 100% de aminoácidos livres, 100% de maltodextrina, 100% de óleos vegetais, com adição de vitaminas, minerais e oligoelement
+90403306150@16@31@03@2023@un@124,89@@128,96@@127,94@FORMULA INFANTIL, EXTENSAMENTE HIDROLISADA@do soro do leite com lactose, isenta de sacarose, com no mínimo 95% de óleos vegetais, com adição de vitaminas, minerais e oligoelementos, acondicionado em emba
+90403306401@16@31@03@2023@un@77,97@@75,44@*@75,44@FORMULA INFANTIL,  DE SEGMENTO@( segundo semestre) para lactentes a base de leite, com a seguinte composição por 100 kcal: de 1,8 a 3,5 g de proteínas, de 4,0 a 6,0g de gordura de 300 a 1400m
+90403307637@16@31@03@2023@un@24,46@@41,44@@37,19@ALIMENTO DIETÉTICO A BASE DE ARROZ, EM PÓ@com no mínimo 240mg de cálcio em 30g, sem sacarose, sem lactose, isento de glúten, acondicionado em embalagem original com no mínimo 300g.
+90403309257@16@31@03@2023@un@260,07@@262,20@@261,66@FORMULA INFANTIL, ELEMENTAR@nutricionalmente completa com 100% dos aminoácidos livres, 100% maltadextrina, 100% óleos vegetais, com adição de vitaminas, minerais e oligoelementos, em embal
+90403310000@16@31@03@2023@un@73,97@@70,22@@70,22@ALIMENTO DIETÉTICO, SOJA@em pó a base de proteína isolada de soja, isento de sacarose e lactose, para crianças de 1 ate 5 anos de idade, com adição de ômega 3 e 5, em embalagem original
+90403310182@16@31@03@2023@un@40,83@@40,94@@40,91@FORMULA INFANTIL, PTN, LÁCTEA@Em pó para lactentes, e de segmento para lactentes e crianças da primeira infância, a base de proteínas lácteas parcialmente hidrolisadas, baixo teor de lactose
+90403400335@16@31@03@2023@un@39,65@@45,12@@43,75@COMPLEMENTO ALIMENTAR, PÓ@lácteo com sacarose ,  embalagem original com no mínimo 400g.
+90403403008@16@31@03@2023@un@46,42@@70,78@@64,69@COMPLEMENTO ALIMENTAR, EM PÓ@isento de lactose e glúten nutricionalmente completo, para crianças de 1 a 10 anos, polimérica, normocalorica (1.0-1,2kcal/ml), com sacarose, com adição de vita
